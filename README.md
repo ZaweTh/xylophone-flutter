@@ -3,9 +3,9 @@
 
 # Xylophone 🎹
 
-And here is a Xylophone app of my friend =)
+And here is a Xylophone app of my Maxeem friend =)
 
-https://github.com/your-acccount-name/xylophone-flutter
+https://github.com/maxeema/xylophone-flutter
 
 ## Our Goal
 
